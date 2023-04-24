@@ -1,0 +1,15 @@
+characters={
+	ZAK_Anastasy_Vonsiatsky={
+		name=ZAK_Anastasy_Vonsiatsky
+		portraits={
+			civilian={
+				large = "gfx/leaders/ZAK/Portrait_GU_Anastasy_Vonsiatsky.dds"
+			}
+		}
+		country_leader={
+			ideology=nazism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

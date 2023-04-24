@@ -1,0 +1,26 @@
+
+state={
+	id=911
+	name="STATE_911" # Bihach
+	manpower = 76163
+
+	state_category = large_town
+
+
+	history={
+		owner = SLV
+		victory_points = { #Bihach
+			6614 1
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = BOS
+	}
+
+	provinces={
+		6614 9586
+	}
+
+	local_supplies=4.0 
+}

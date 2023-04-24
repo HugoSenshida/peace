@@ -1,0 +1,26 @@
+
+state={
+	id=913
+	name="STATE_913" # Srem
+	manpower = 297213
+	
+	state_category = large_town
+
+	history={
+		owner = SER
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = { #Srem
+			11580 1
+		}
+		add_core_of = SER
+	}
+
+	provinces={
+		11580
+	}
+
+	local_supplies=0.0 
+}

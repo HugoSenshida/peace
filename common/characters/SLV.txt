@@ -1,0 +1,15 @@
+characters={
+	SLV_Miha_Krek={
+		name=SLV_Miha_Krek
+		portraits={
+			civilian={
+				large = "gfx/leaders/SLV/Portrait_Slovenia_Miha_Krek.dds"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

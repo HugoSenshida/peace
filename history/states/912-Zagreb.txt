@@ -1,0 +1,29 @@
+
+state={
+	id=912
+	name="STATE_912" # Zagreb
+	manpower = 1529039
+	
+	state_category = large_town
+
+	history={
+		owner = SLV
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+		}
+		victory_points = {
+			11581 3 
+		}
+		victory_points = { #Varazhdin
+			9611 1
+		}
+		add_core_of = CRO
+	}
+
+	provinces={
+		624 3592 3596 9611 11581 11594
+	}
+
+	local_supplies=0.0 
+}

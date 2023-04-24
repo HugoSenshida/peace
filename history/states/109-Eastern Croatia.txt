@@ -1,0 +1,27 @@
+
+state={
+	id=109
+	name="STATE_109" # Slavonia
+	manpower = 618939
+	
+	state_category = rural
+
+	history={
+		owner = SER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = { #osijek
+			6647 1
+		}
+		add_core_of = CRO
+		set_demilitarized_zone = yes
+	}
+
+	provinces={
+		3627 6647 9595 11577 
+	}
+
+	local_supplies=0.0 
+}

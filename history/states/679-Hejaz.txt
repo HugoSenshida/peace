@@ -1,0 +1,24 @@
+state={
+	id=679
+	name="STATE_679"
+
+	history={
+		owner = HEJ
+		
+		buildings = {
+			infrastructure = 2
+			
+
+		}
+		add_core_of = HEJ
+
+	}
+
+	provinces={
+		2033 4981 7934 10748 10835 
+	}
+	manpower=293012
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

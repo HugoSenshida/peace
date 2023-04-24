@@ -1,0 +1,31 @@
+
+state={
+	id=910
+	name="STATE_910" # Dubrovnik
+	manpower = 310498 
+
+	state_category = large_town
+
+
+	history={
+		owner = SER
+		victory_points = { #Dubrovnik
+			6889 3 
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			6889 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = CRO
+		set_demilitarized_zone = yes
+	}
+
+	provinces={
+		3868 6889 11816
+	}
+
+	local_supplies=4.0 
+}

@@ -1,0 +1,29 @@
+state={
+	id=914
+	name="STATE_914"
+	resources={
+	}
+
+	history={
+		owner = SER
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {#Tetovo
+			867 1
+		}
+		add_core_of = MAC
+		add_claim_by = ALB
+		add_claim_by = SER
+	}
+
+	provinces={
+		833 867
+	}
+	manpower=169833
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=0.0 
+}

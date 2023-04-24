@@ -1,0 +1,31 @@
+state={
+	id=50
+	name="STATE_50"
+	resources={
+		aluminium=6 # was: 10.000
+	}
+
+	state_category = large_city
+	history={
+		owner = DDR
+		victory_points = {
+			3530 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = GER
+		add_core_of = DDR
+		set_demilitarized_zone = yes
+	}
+
+	provinces={
+		3530 3679 3692 6542 6568 6581 6712 6934 11640
+	}
+	manpower=2190834
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,26 @@
+state={
+	id=80
+	name="STATE_80"
+	manpower = 275938
+	
+	state_category = rural
+	
+	history=
+	{
+		victory_points = {
+			577 1 
+		}
+		owner = RHU
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = ROM
+		add_core_of = RHU
+		add_claim_by = UKR
+	}
+	provinces={
+		577 9548 
+	}
+
+	local_supplies=0.0 
+}

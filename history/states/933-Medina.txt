@@ -1,0 +1,23 @@
+state={
+	id=933
+	name="STATE_933"
+	history = {
+		owner = RAS
+		victory_points = {
+			12758 1 
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+		add_core_of = RAS
+	}
+	provinces={
+		5027 5099 7970 12455 12758
+	}
+	manpower=421930
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

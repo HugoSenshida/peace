@@ -1,0 +1,23 @@
+state={
+	id=934
+	name="STATE_934"
+	provinces={
+		8073 5006
+	}
+	history = {
+		owner = YEM
+		add_core_of	= YEM
+		add_core_of	= HEJ
+		victory_points = {
+			8073 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower=89302
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=935
+	name="STATE_935"
+	manpower = 213491
+	
+	state_category = town
+	
+	resources={
+		tungsten = 24
+	}
+
+	history={
+		add_core_of = BRM
+		owner = SIA
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+		1296 1315 1385 1403 4275 4408 7295 12125 10217 12292 12238
+	}
+
+	local_supplies=0.0 
+}
